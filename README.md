@@ -25,7 +25,7 @@ Infinity norm:
 2.Compute row-wise absolute sum using np.sum(abs(A), axis=1)
 3.Find the maximum value among the row sums → that is infinity norm
 4.Print the norm value in two decimal places
-S
+
 ```
 ## Program:
 ```Python
